@@ -1,0 +1,9 @@
+.form{
+    text-align: center;
+}
+.button{
+    margin-left: 0.5rem;
+    background-color: #ad5502;
+    color: cyan;
+    border-radius: 10px;
+}
